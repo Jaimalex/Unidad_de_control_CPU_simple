@@ -1,12 +1,5 @@
 Instrucciones para la práctica
 
-La práctica se puede hacer con su propio portátil o con los equipos del aula. En el último caso, es necesario que se conecten a un escritorio remoto:
-1. Abran un navegador y vayan a vdi.ull.es. Logueense con su cuenta institucional
-2. Vayan a los Escritorios Linux de esa página, pulsen en las tres rayitas del escritorio ESIT Programación y seleccionen en Conexión la versión HTML5 para abrir el desktop
-3. Una vez en el Escritorio remoto, abran el navegador de Sistema de Archivos y pongan en la ruta smb://ddv.ull.es/aluXXXXXXX
-4. En el cuadro de texto siguiente se deben identificar con su alu como usuario, dominio ull.es (en lugar de WORKGROUP) y su contraseña.
-5. Si quieren usar visual studio code, lo pueden abrir en un terminal con 'code' y en el menú lateral de la izquierda en extensiones, elegir su extensión de Verilog preferida. El visual deja incluso abrir una carpeta situada en su ddv, con lo que incluso pueden trabajar directamente allí (también se pueden abrir terminales situados sobre carpetas del ddv, basta con elegir 'Abrir terminal aqui' del navegador del sistema de ficheros)
-
 El código para la práctica de hoy es:
 
        LI #3, R4   // Carga un 3 en R4
